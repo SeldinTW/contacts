@@ -12,10 +12,4 @@
 	<phone_number>111111111</phone_number>
 	<notes>John Doe</notes>
 </contact>
-<contact>
-	<first_name>Christiano </first_name>
-	<last_name>Ronaldo</last_name>
-	<phone_number>777777777</phone_number>
-	<notes>Regular note</notes>
-</contact>
 </contacts>
