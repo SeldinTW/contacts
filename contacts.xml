@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Seldin</first_name>
+	<last_name>Puce</last_name>
+	<phone_number>123456789</phone_number>
+	<notes>Notes</notes>
+</contact>
+<contact>
+	<first_name>John</first_name>
+	<last_name>Doe</last_name>
+	<phone_number>111111111</phone_number>
+	<notes>John Doe</notes>
+</contact>
+<contact>
+	<first_name>Cristiaono </first_name>
+	<last_name>Ronaldo</last_name>
+	<phone_number>777777777</phone_number>
+	<notes>Regular note</notes>
+</contact>
+</contacts>
