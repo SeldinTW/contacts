@@ -1,2 +1,2 @@
 # contacts
-Simple contact application written in java
+Simple JavaFX contact application 
